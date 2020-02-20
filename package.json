@@ -1,0 +1,12 @@
+{
+  "name": "cum-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
